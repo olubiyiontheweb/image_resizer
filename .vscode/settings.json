@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\Gabriel\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.formatting.provider": "autopep8",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
