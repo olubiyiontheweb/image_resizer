@@ -25,7 +25,7 @@ def resize(path):
 
     for img_type in image_types:
         
-        images = glob.glob(path+"\*"+img_type)
+        images = glob.glob(path+"/*"+img_type)
         for img in images:
             image_files.append(img)
         
